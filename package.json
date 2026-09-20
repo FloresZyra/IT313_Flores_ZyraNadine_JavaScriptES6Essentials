@@ -1,0 +1,10 @@
+{
+    "name" : "IT313_Flores_ZyraNadine_JavaScriptES6Essentials",
+    "description" : "IT313 Laboratory 2 - Modern JavaScript (ES6+) Essentials in Action ",
+    "version" : "1.0.0",
+    "type" : "module",
+    "main" : "main.js",
+    "scripts" : {
+        "start" : "node main.js"
+    }
+}
